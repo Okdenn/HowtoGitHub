@@ -3,6 +3,7 @@
 ## 環境設定 Windows
 
 ## GitHub サイト上で，リポジトリを作ってURLを取得しておく．
+説明省略．やればわかる．
 
 ## local のディレクトリをリポジトリに push する．
 [Githubに新規リポジトリ(Repository)を作成する](https://qiita.com/bakainubau/items/4613dda50a5fa302d212 )
